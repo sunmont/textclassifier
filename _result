@@ -1,0 +1,8 @@
+test result [bow, categorial, tanh]: Accuracy: 0.942857
+test result [bow, categorial, sigmoid]: Accuracy: 0.900000
+test result [bow, categorial, relu]: Accuracy: 0.914286
+--------
+test result [bow, embeddings, tanh]: Accuracy: 0.900000
+test result [bow, embeddings, sigmoid]: Accuracy: 0.885714
+--------
+test result [rnn, relu]: Accuracy: 0.628571
